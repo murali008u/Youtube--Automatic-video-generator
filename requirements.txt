@@ -1,0 +1,25 @@
+
+# Database
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Configuration
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# HTTP Requests
+requests==2.31.0
+httplib2==0.22.0
+
+# Google APIs
+google-api-python-client==2.108.0
+google-auth-oauthlib==1.2.0
+
+# Image Processing
+pillow==10.1.0
+
+# Video Processing
+moviepy==1.0.3
+
+# Utilities
+typing-extensions==4.8.0
